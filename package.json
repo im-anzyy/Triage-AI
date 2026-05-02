@@ -1,0 +1,24 @@
+{
+  "name": "triage-ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^7.2.1",
+    "@react-navigation/stack": "^7.8.8",
+    "expo": "^55.0.10-canary-20260327-0789fbc",
+    "expo-secure-store": "55.0.10-canary-20260327-0789fbc",
+    "expo-speech": "55.0.10-canary-20260327-0789fbc",
+    "expo-status-bar": "55.0.5-canary-20260327-0789fbc",
+    "react": "19.2.0",
+    "react-native": "0.83.4",
+    "react-native-safe-area-context": "~5.6.2",
+    "react-native-screens": "~4.23.0"
+  },
+  "private": true
+}
